@@ -36,4 +36,6 @@ Each section uses consistent grid alignment and rounded containers to maintain a
 The chosen design aims to communicate creativity and attention to detail while keeping functionality and readability as priorities. These visual decisions ensure that visitors, recruiters, and collaborators can easily navigate, enjoy the aesthetics, and focus on the content that represents my professional profile.
 
 
-figma prototipe: https://www.figma.com/design/k2Tc0IPFtLntFzxvolhiX0/Design-proposal?node-id=2-3&t=8LeeVWZnyo9HrbiV-1
+Figma prototipe: https://www.figma.com/design/k2Tc0IPFtLntFzxvolhiX0/Design-proposal?node-id=2-3&t=8LeeVWZnyo9HrbiV-1
+
+Github page Link:https://u1994960.github.io/
